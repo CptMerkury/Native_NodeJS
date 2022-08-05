@@ -1,0 +1,19 @@
+{
+  "name": "node_js_test",
+  "version": "1.0.0",
+  "description": "node, nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Yakubov Maxim <cptmerkury@icloud.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
